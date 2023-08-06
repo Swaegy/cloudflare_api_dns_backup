@@ -9,9 +9,9 @@ A Remote system for running the script and saving the output. <br />
 
 ## Setup Cloudflare
 
-You need to create an API Key and get the Zone ID of the DNS Zone you want to Backup. <br />
-The API Key only needs read rights to the DNS Zone. <br />
-You can see your DNS Zone ID when you access your Dashboard and access the DNS Zone, then the Zone ID is shown on the bottom right in the DNS Zone Overview. <br /><br />
+You need to create an API Token and get the Zone ID of the DNS Zone you want to Backup. <br />
+[Create Cloudflare API Key](https://github.com/ARC-XX/cloudflare_api_dns_backup/wiki/Create-Cloudflare-API-Key)<br />
+[Get Cloudflare DNS Zone ID](https://github.com/ARC-XX/cloudflare_api_dns_backup/wiki/Get-Cloudflare-DNS-Zone-ID)<br /><br />
 
 ## Example Config Debian
 Install the dependencies for debian to run the script
